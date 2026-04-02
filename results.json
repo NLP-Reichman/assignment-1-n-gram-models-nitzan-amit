@@ -3,27 +3,27 @@
     "link": null
   },
   "test_preprocess": {
-    "vocab_length": 0
+    "vocab_length": 1804
   },
   "test_build_lm": {
-    "english_2_gram_length": 0,
-    "english_3_gram_length": 0,
-    "french_3_gram_length": 0,
-    "spanish_3_gram_length": 0
+    "english_2_gram_length": 748,
+    "english_3_gram_length": 8460,
+    "french_3_gram_length": 8503,
+    "spanish_3_gram_length": 8740
   },
   "test_eval": {
-    "en_on_en": 0,
-    "en_on_fr": 0,
-    "en_on_tl": 0,
-    "en_on_nl": 0
+    "en_on_en": 6.85,
+    "en_on_fr": 6.93,
+    "en_on_tl": 8.13,
+    "en_on_nl": 7.86
   },
   "test_generate": {
-    "english_2_gram": "",
-    "english_3_gram": "",
-    "english_4_gram": "",
-    "spanish_2_gram": "",
-    "spanish_3_gram": "",
-    "french_2_gram": "",
-    "french_3_gram": ""
+    "english_2_gram": "<start>I amell1Gige omyo & her ",
+    "english_3_gram": "<start><start>I amebompirs ans appree ",
+    "english_4_gram": "<start><start><start>I Lover. Zo Are froming #M",
+    "spanish_2_gram": "<start>Soy ' Dusive na sandind",
+    "spanish_3_gram": "<start><start>Soy eno de tiend><unk><unk><unk><unk><unk><unk>",
+    "french_2_gram": "<start>Je suistonous: sta males ce",
+    "french_3_gram": "<start><start>Je suist #ormaistart>Bon bo"
   }
 }
